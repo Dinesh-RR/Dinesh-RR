@@ -28,7 +28,7 @@ Passionate about building scalable, automated, and cloud-native solutions. Skill
 ## 🌍 Connect with Me  
 - 💼 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://linkedin.com/in/dinesh-ramesh-r/)  
 - 📧 dineshramesh671999@gmail.com  
-- 📝 [Resume/Portfolio]()  
+- 📝 [Resume/Portfolio](https://github.com/Dinesh-RR/Dinesh-RR/blob/main/Dinesh_Ramesh_Resume.pdf)  
 
 ---
 
