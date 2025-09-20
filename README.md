@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Dinesh  
 
-<!--
-**Dinesh-RR/Dinesh-RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps Engineer | Cloud Enthusiast | SRE Background**  
+Passionate about building scalable, automated, and cloud-native solutions. Skilled in Openshift, Linux, Terraform, and CI/CD pipelines, with 4+ years of IT experience (Middleware + DevOps).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌐 Currently working on **Python**  
+- ⚡ Experienced in **Openshift, Linux, Terraform, GitOps (ArgoCD, Spinnaker)**  
+- 🛠️ Building CI/CD pipelines & monitoring solutions  
+- 📚 Always learning **cloud-native tech + SRE practices**  
+- 🤝 Open to collaborate on **DevOps, Cloud, or Open Source projects**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Cloud:** Azure ☁️ | AWS ☁️   
+- **Containers & Orchestration:** Docker 🐳 | Kubernetes ☸️ | OpenShift  
+- **IaC & Automation:** Terraform 🌍 | Ansible ⚙️ | Helm ⎈ | Linux  
+- **CI/CD:** GitHub Actions 🤖 | Jenkins | ArgoCD | Spinnaker  
+- **Monitoring & Logging:** Datadog 📊 | ELK Stack  
+- **Languages/Scripting:** Bash | Python | YAML  
+
+
+---
+
+## 🌍 Connect with Me  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://linkedin.com/in/dinesh-ramesh-r/)  
+- 📧 dineshramesh671999@gmail.com  
+- 📝 [Resume/Portfolio]()  
+
+---
+
+✨ _“Automating today for a better tomorrow.”_  
+
