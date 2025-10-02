@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dinesh  
 
-💻 **DevOps Engineer | Cloud Enthusiast | SRE Background**  
+💻 **DevOps Engineer | Cloud Enthusiast | SRE **  
 Passionate about building scalable, automated, and cloud-native solutions. Skilled in Openshift, Linux, Terraform, and CI/CD pipelines, with 4+ years of IT experience (Middleware + DevOps).  
 
 ---
